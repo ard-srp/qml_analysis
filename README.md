@@ -1,5 +1,5 @@
 # Quantum Machine Learning
-This repository contains our project work on quantum machine learning. It is an ongoing project.
+This repository contains our project work on quantum machine learning. It is an ongoing project. (another repo - https://github.com/RB609/QML)
 
 ## Description
 The aim is to implement and test different kinds of machine learning and deep learning algorithms on quantum computers. Major portion of the code regarding simulations is written using numpy and scipy. 
